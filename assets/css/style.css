@@ -209,7 +209,7 @@ li {
   color: #575f66;
   font-size: 1.8rem;
   font-weight: 300;
-  line-height: 1.67; /* 166.667% */
+  line-height: 1.67;
 }
 
 .service__row {
@@ -224,12 +224,6 @@ li {
   height: 570px;
   border-radius: 12px;
   object-fit: cover;
-}
-
-.service__list {
-  display: inline-block;
-  width: 40%;
-  justify-content: end;
 }
 
 .service-item {
@@ -276,7 +270,7 @@ li {
   color: #575f66;
   font-size: 1.6rem;
   font-weight: 300;
-  line-height: 1.75; /* 175% */
+  line-height: 1.75;
 }
 
 .service__btn {
